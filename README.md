@@ -15,3 +15,7 @@ gcc hello.c -o a.out
 
 
 Course page: https://github.com
+
+## Usage
+
+Compile with gcc hello.c -o a.out and run with ./a.out
